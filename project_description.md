@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Data Warehouse
-subtitle: Use the Blueprint to create a project
+subtitle: Replicate, transform, and analyze data about book sales and orders
 categories: Data-Circle
 tags: [data-circle] 
 ---
@@ -10,6 +10,7 @@ tags: [data-circle]
 
 ## 1. Introduction
 - What is the project content about? 
+You will replicate, transform, and analyze data about book sales and orders.
 - What is the problem we are solving with the project?
 Data warehouses are the backbone of company analytics. This project will familiarize you with the design and architecture of data warehouses. If you are interested in a data analyst, analytics engineer, or data engineer role, this project will give you an introduction to how these roles interact with data in production.
 
@@ -33,7 +34,7 @@ List the components / frameworks which the student is going to use / learn. Exam
 ## 4. Minimum Acceptance Criteria
 What are the minimum criteria which the project should meet to be considered "done"? 
 - [ ] Users are able to query data from Metabase
-- [ ] Users are able to view a dashboard about book orders
+- [ ] Users are able to view a dashboard about book sales/orders
 
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
@@ -49,5 +50,8 @@ How can the student get started with the project? Example:
 6. Start coding!
 
 ## 7. Resources / Hints & Tips
-- (free) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
-- (free) dbt Fundamentals Course from dbt Labs: https://courses.getdbt.com/courses/fundamentals
+- (free book) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
+- (free course) dbt Fundamentals Course from dbt Labs: https://courses.getdbt.com/courses/fundamentals
+- (blog series) Three-Part Data Modeling Series from airbyte: https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-introduction
+https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-approaches-and-techniques 
+https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools 
