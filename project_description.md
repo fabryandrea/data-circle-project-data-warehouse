@@ -1,43 +1,39 @@
 ---
 layout: post
-title: Project Blueprint
+title: Data Warehouse
 subtitle: Use the Blueprint to create a project
-categories: Front-End
-tags: [front-end] 
+categories: Data-Circle
+tags: [data-circle] 
 ---
 
-Dear ReDI member, 
-this is a project blueprint/template which you can use to create a new project. 
-Steps: 
-1. Create a Copy of the Blueprint 
-2. Fill out meta data (Title, subtitle, categories, tags
-3. Fill in the content for each section to describe the project
-4. Done! You can share the project now :) 
 
 
 ## 1. Introduction
 - What is the project content about? 
 - What is the problem we are solving with the project?
+Data warehouses are the backbone of company analytics. This project will familiarize you with the design and architecture of data warehouses. If you are interested in a data analyst, analytics engineer, or data engineer role, this project will give you an introduction to how these roles interact with data in production.
 
 ## 2. Project Brief 
 - How is the student going to work on the project?
+You will collaborate with others delivering different parts of the same project.
 - What is the major challenge of the project?
+You will implement a data pipeline and a star schema data model, then use it for dashboards.
 
 
 ## 3. Learning Objective
 List the components / frameworks which the student is going to use / learn. Example below:
 
-- [x] Routing
-- [x] Local and Global State Management
-- [x] Hooks
-- [x] Lifecycles
-- [x] Styling
+- [x] concepts: data warehouses, Extract-Transform-Load, data modeling
+- [x] BigQuery - massively parallel processing (MPP) data warehouse
+- [x] airbyte - ETL tool
+- [x] dbt - transformation tool
+- [x] Metabase - BI tool
 
 
 ## 4. Minimum Acceptance Criteria
 What are the minimum criteria which the project should meet to be considered "done"? 
-- [ ] Users are able to view the list of all restaurants that are returned from the API 
-- [ ] Users are able to check restaurants with specific categories/tags
+- [ ] Users are able to query data from Metabase
+- [ ] Users are able to view a dashboard about book orders
 
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
@@ -53,5 +49,5 @@ How can the student get started with the project? Example:
 6. Start coding!
 
 ## 7. Resources / Hints & Tips
-- Boilerplate repo: https://github.com/ReDI-School/react-21s-final-project-1
-- React resources: https://github.com/ReDI-School/react-course-berlin/blob/main/resources.md
+- (free) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
+- (free) dbt Fundamentals Course from dbt Labs: https://courses.getdbt.com/courses/fundamentals
