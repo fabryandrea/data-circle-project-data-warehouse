@@ -38,7 +38,9 @@ What are the minimum criteria which the project should meet to be considered "do
 
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
-
+Additional fact table: `orders` that summarizes all order line items and adds shipping costs. Users can analyze sales and shipping.
+Additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
+Additional fact tables: `order_fulfillment`. Users can analyze oredrs by status.
 
 ## 6. Technical Setup
 How can the student get started with the project? Example: 
@@ -52,6 +54,7 @@ How can the student get started with the project? Example:
 ## 7. Resources / Hints & Tips
 - (free book) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
 - (free course) dbt Fundamentals Course from dbt Labs: https://courses.getdbt.com/courses/fundamentals
-- (blog series) Three-Part Data Modeling Series from airbyte: https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-introduction
+- (blog series) Three-Part Data Modeling Series from airbyte: 
+https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-introduction
 https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-approaches-and-techniques 
 https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools 
