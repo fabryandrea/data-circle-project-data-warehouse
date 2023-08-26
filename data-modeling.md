@@ -1,4 +1,4 @@
-Data Warehouse - Dimensional Modeling of Orders Data with dbt
+# Data Warehouse - Dimensional Modeling of Orders Data with dbt
 
 ## 1. Approach
 To enable the analytics team to continue finding insights in what books their customers are ordering, we will build an ETL pipeline that extracts their data from Postgres, stages them in BigQuery, and transforms data into a set of dimensional tables. The orders data was modeled using a star schema, with `order_lines` as a central fact table and `books`, `authors`, `customers` and `time` as dimension tables optimized for queries on order analysis. The resulting database supports optimized fast queries about customers, the books they buy, and the time periods when they visit the ecommerce site.
