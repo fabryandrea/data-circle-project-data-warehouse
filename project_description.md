@@ -38,9 +38,9 @@ What are the minimum criteria which the project should meet to be considered "do
 
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
-Additional fact table: `orders` that summarizes all order line items and adds shipping costs. Users can analyze sales and shipping.
-Additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
-Additional fact tables: `order_fulfillment`. Users can analyze oredrs by status.
+* Create additional fact table: `orders` that summarizes all order line items and adds shipping costs. Users can analyze sales and shipping.
+* Craete additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
+* Create additional fact tables: `order_fulfillment`. Users can analyze orders by status.
 
 ## 6. Technical Setup
 How can the student get started with the project? Example: 
