@@ -39,12 +39,12 @@ What are the minimum criteria which the project should meet to be considered "do
 ## 5. Optional Challenges
 Add a few extra challenges for the more ambitious students. 
 * Create additional fact table: `orders` that summarizes all order line items and adds shipping costs. Users can analyze sales and shipping.
-* Craete additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
+* Create additional dimensional tables: `publishers` and `languages`. Users can analyze sales per publisher and languages.
 * Create additional fact tables: `order_fulfillment`. Users can analyze orders by status.
 
 ## 6. Technical Setup
 How can the student get started with the project? Example: 
-1. Fork boileplate repo
+1. Fork boilerplate repo
 2. Set up the project with version control (e.g. Git)
 3. Read the README.md file and have a look around the project
 4. Get colors, fonts etc from the style-guide.md file
