@@ -44,12 +44,11 @@ Add a few extra challenges for the more ambitious students.
 
 ## 6. Technical Setup
 How can the student get started with the project? Example: 
-1. Fork boilerplate repo
-2. Set up the project with version control (e.g. Git)
-3. Read the README.md file and have a look around the project
-4. Get colors, fonts etc from the style-guide.md file
-5. Set up your project/file architecture however you want
-6. Start coding!
+1. Fork the repo.
+2. Setup [Bigquery](https://cloud.google.com/bigquery) or [Postgres](https://hub.docker.com/_/postgres). Postgres can be used via docker, or the free variant [podman](https://podman.io/).
+3. Pick a dataset, options: [kaggle](https://www.kaggle.com/) where we recommend ecommerce datasets,or [bookstore dataset](https://www.databasestar.com/sample-bookstore-database/).
+4. Perform data analysis, as mentioned in Optional Challenges.
+5. Try to ingest the data using Airbyte or try using pandas,polars,Apache Spark (Databricks) to ingest data.
 
 ## 7. Resources / Hints & Tips
 - (free book) The Analytics Setup Guidebook from Holistics.io: https://www.holistics.io/books/setup-analytics/start-here-introduction/
