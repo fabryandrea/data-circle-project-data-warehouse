@@ -18,3 +18,17 @@ We want to provide a tech stack for building a datawarehouse with which you are 
 - BI:
   
   Superset and Metabase are popular tools for the purpose but I found Metabase memory hungry for a local deployment, therefore our stack has Superset.  
+
+
+
+- Links to access the UI's:
+  
+  http://localhost:8000 is Airbyte
+
+  http://localhost:8088 is Superset
+
+  http://localhost:5050 is pgAdmin
+
+  http://localhost:8080 is Airflow
+
+  
