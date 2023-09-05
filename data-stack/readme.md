@@ -1,6 +1,6 @@
 Hello everyone and I hope you are having a good day!
 
-I try to give you all an inside about our tech stack and choices that you can make for this course.
+I try to give you all an insight about our tech stack and choices that you can make for this course.
 
 
 We want to provide a tech stack for building a datawarehouse with which you are able to implement the project, nevertheless it is you who can choice how to set up youe environment for it. 
