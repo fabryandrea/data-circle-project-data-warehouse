@@ -12,6 +12,7 @@ We want to provide a tech stack for building a datawarehouse with which you are 
 - ETL:
   
   Loading and Extracting: in our stack, Airbyte handles these steps.
+  
   Transforming: DBT is a conventional tool and it is a python library so hopefully you find it straightforward to use. It is worth-mentioning that Airbyte can also import BDT scripts and take care of transformation.
   
 - BI:
