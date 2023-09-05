@@ -5,4 +5,4 @@ Follow these steps:
 - run on your terminal:  docker-compose -f docker-compose-non-dev.yml pull
 - run on your terminal: docker-compose -f docker-compose-non-dev.yml up -d
 - run on your terminal: docker exec -it superset_app bash  ./docker/docker-init.sh
-- go to http://localhost:8088 and login by user: admin and pass:admin
+- go to http://localhost:8088 and log in by user: admin and pass:admin
