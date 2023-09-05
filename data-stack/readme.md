@@ -21,7 +21,7 @@ We want to provide a tech stack for building a datawarehouse with which you are 
 
 
 
-- Links to access the UI's (first you need to run them in container):
+- Links to access the UI's (first you need to run them in docker):
   
   http://localhost:8000 is Airbyte
 
