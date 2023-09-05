@@ -1,4 +1,4 @@
-Hello everyone and I hope you are having a good day!
+Hello everyone and we hope you are having a good day!
 
 I try to give you all an insight about our data stack and choices that you can make for this course.
 
