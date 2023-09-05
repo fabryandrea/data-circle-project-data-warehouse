@@ -7,7 +7,7 @@ We want to provide a tech stack for building a datawarehouse with which you are 
 
 - Database:
   
-  Speaking of which, you first of all need to have a database for storing your data as the original idea was using Bigquery on GCP, we thought it might be troublesome for you to setup the billing with your credit card in order to be able to use it, therefore we came up with an easy solution with Postgres running in docker. But feel free if you would like to set up Bigquery and dive into cloud engineering if you fancy it and contact Amin Abbasloo for assisting you. Please keep in mind Bigquery sandbox won't allow you streaming so you need to setup billing!
+  Speaking of which, you first of all need to have a database for storing your data as the original idea was using Bigquery on GCP, we thought it might be troublesome for you to setup the billing with your credit card in order to be able to use it, therefore we came up with an easy solution with Postgres running in docker. But feel free if you would like to set up Bigquery and dive into cloud engineering and if you fancy it (contact Amin Abbasloo for assisting you). Please keep in mind Bigquery sandbox won't allow you streaming so you need to setup billing!
 
 - ETL:
   
