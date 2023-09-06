@@ -6,7 +6,7 @@ We try to give you all an insight about our data stack and choices that you can 
 <br />
 
 
-![plot](./datastack.jpg width="300")
+![plot](./datastack.jpg)
 
 
 <br />
