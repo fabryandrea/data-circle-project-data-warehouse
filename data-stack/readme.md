@@ -6,7 +6,7 @@ We try to give you all an insight about our data stack and choices that you can 
 <br />
 
 
-![plot](./datastack.jpg)
+![plot](./datastack.jpg){:height="36px" width="36px"}
 
 
 <br />
