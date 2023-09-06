@@ -3,9 +3,12 @@ Hello everyone and we hope you are having a good day!
 We try to give you all an insight about our data stack and choices that you can make for this course.
 
 
+
 ![plot](./datastack.jpg)
 
-We want to provide a tech stack for building a datawarehouse with which you are able to implement the project, nevertheless it is you who can choose how to set up your environment for it. 
+
+
+We wanted to provide a data stack for building a datawarehouse with which you are able to implement the project, nevertheless it is you who can choose how to set up your environment for it. The data stack is shown in the picture above and in the following you will learn more about it.
 
 - Database:
   
