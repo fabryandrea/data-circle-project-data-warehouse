@@ -4,7 +4,11 @@ We try to give you all an insight about our data stack and choices that you can 
 
 
 
+
+
 ![plot](./datastack.jpg)
+
+
 
 
 
