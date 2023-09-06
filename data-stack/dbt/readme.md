@@ -5,6 +5,6 @@ Please follow this instruction for installing and setting up DBT for Postgres:
 
 And keep in mind that Postgres address is localhost and port 5432
 
-And we hope you are familiar with creating a virtual environment:
+Moreover, we hope you are familiar with creating a virtual environment:
 
 [Virtual environment with Conda](https://numdifftools.readthedocs.io/en/stable/how-to/create_virtual_env_with_conda.html)
