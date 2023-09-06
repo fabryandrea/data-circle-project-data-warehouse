@@ -7,7 +7,7 @@ We try to give you all an insight about our data stack and choices that you can 
 
 
 <div style="width:60px ; height:60px">
-![data stack](./datastack.jpg?raw=true "Data Stack")
+![data stack](./datastack.jpg "Data Stack")
 <div>
 
 
